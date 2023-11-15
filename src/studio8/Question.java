@@ -23,11 +23,11 @@ public class Question {
 		}
 	}
 	
-	public int getPoints() {
+	public int getPoints() { //getters
 		return this.points;
 	}
 	
-	public String getAnswer() {
+	public String getAnswer() { //getter
 		return this.answer;
 	}
 	
